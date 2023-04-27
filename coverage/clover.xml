@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1682598754853" clover="3.2.0">
-  <project timestamp="1682598754854" name="All files">
+<coverage generated="1682607646693" clover="3.2.0">
+  <project timestamp="1682607646693" name="All files">
     <metrics statements="252" coveredstatements="252" conditionals="68" coveredconditionals="68" methods="63" coveredmethods="63" elements="383" coveredelements="383" complexity="0" loc="252" ncloc="252" packages="12" files="28" classes="28"/>
     <package name="Applications.security">
       <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
@@ -30,7 +30,7 @@
         <line num="11" count="6" type="stmt"/>
         <line num="12" count="5" type="stmt"/>
         <line num="13" count="5" type="stmt"/>
-        <line num="17" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
       </file>
       <file name="LoginUserUseCase.js" path="D:\WebDasar\NODE-JS\auth-api\src\Applications\use_case\LoginUserUseCase.js">
         <metrics statements="15" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
