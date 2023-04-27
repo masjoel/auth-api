@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1682598754853" clover="3.2.0">
-  <project timestamp="1682598754854" name="All files">
+<coverage generated="1682606964712" clover="3.2.0">
+  <project timestamp="1682606964712" name="All files">
     <metrics statements="252" coveredstatements="252" conditionals="68" coveredconditionals="68" methods="63" coveredmethods="63" elements="383" coveredelements="383" complexity="0" loc="252" ncloc="252" packages="12" files="28" classes="28"/>
     <package name="Applications.security">
       <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
@@ -30,7 +30,7 @@
         <line num="11" count="6" type="stmt"/>
         <line num="12" count="5" type="stmt"/>
         <line num="13" count="5" type="stmt"/>
-        <line num="17" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
       </file>
       <file name="LoginUserUseCase.js" path="D:\WebDasar\NODE-JS\auth-api\src\Applications\use_case\LoginUserUseCase.js">
         <metrics statements="15" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
@@ -104,7 +104,7 @@
         <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="1" count="2" type="stmt"/>
         <line num="3" count="2" type="stmt"/>
-        <line num="5" count="23" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="24" type="cond" truecount="2" falsecount="0"/>
         <line num="9" count="2" type="stmt"/>
         <line num="22" count="2" type="stmt"/>
       </file>
@@ -213,23 +213,23 @@
         <line num="4" count="1" type="stmt"/>
         <line num="5" count="1" type="stmt"/>
         <line num="7" count="1" type="stmt"/>
-        <line num="8" count="22" type="stmt"/>
-        <line num="13" count="22" type="stmt"/>
-        <line num="24" count="22" type="stmt"/>
-        <line num="26" count="26" type="stmt"/>
-        <line num="28" count="26" type="cond" truecount="2" falsecount="0"/>
-        <line num="30" count="18" type="stmt"/>
-        <line num="33" count="18" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="23" type="stmt"/>
+        <line num="13" count="23" type="stmt"/>
+        <line num="24" count="23" type="stmt"/>
+        <line num="26" count="27" type="stmt"/>
+        <line num="28" count="27" type="cond" truecount="2" falsecount="0"/>
+        <line num="30" count="19" type="stmt"/>
+        <line num="33" count="19" type="cond" truecount="2" falsecount="0"/>
         <line num="34" count="16" type="stmt"/>
         <line num="38" count="16" type="stmt"/>
         <line num="39" count="16" type="stmt"/>
-        <line num="43" count="2" type="cond" truecount="2" falsecount="0"/>
-        <line num="44" count="1" type="stmt"/>
+        <line num="43" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="44" count="2" type="stmt"/>
         <line num="48" count="1" type="stmt"/>
         <line num="52" count="1" type="stmt"/>
         <line num="53" count="1" type="stmt"/>
         <line num="57" count="8" type="stmt"/>
-        <line num="60" count="22" type="stmt"/>
+        <line num="60" count="23" type="stmt"/>
         <line num="63" count="1" type="stmt"/>
       </file>
     </package>
@@ -315,10 +315,10 @@
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
-        <line num="7" count="22" type="stmt"/>
-        <line num="9" count="22" type="stmt"/>
-        <line num="10" count="22" type="stmt"/>
-        <line num="11" count="22" type="stmt"/>
+        <line num="7" count="23" type="stmt"/>
+        <line num="9" count="23" type="stmt"/>
+        <line num="10" count="23" type="stmt"/>
+        <line num="11" count="23" type="stmt"/>
         <line num="15" count="6" type="stmt"/>
         <line num="16" count="6" type="stmt"/>
         <line num="17" count="2" type="stmt"/>
@@ -337,12 +337,12 @@
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
-        <line num="7" count="22" type="stmt"/>
-        <line num="8" count="22" type="stmt"/>
+        <line num="7" count="23" type="stmt"/>
+        <line num="8" count="23" type="stmt"/>
       </file>
       <file name="routes.js" path="D:\WebDasar\NODE-JS\auth-api\src\Interfaces\http\api\authentications\routes.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="1" count="22" type="stmt"/>
+        <line num="1" count="23" type="stmt"/>
         <line num="19" count="1" type="stmt"/>
       </file>
     </package>
@@ -351,8 +351,8 @@
       <file name="handler.js" path="D:\WebDasar\NODE-JS\auth-api\src\Interfaces\http\api\users\handler.js">
         <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
         <line num="1" count="1" type="stmt"/>
-        <line num="5" count="22" type="stmt"/>
-        <line num="7" count="22" type="stmt"/>
+        <line num="5" count="23" type="stmt"/>
+        <line num="7" count="23" type="stmt"/>
         <line num="11" count="10" type="stmt"/>
         <line num="12" count="9" type="stmt"/>
         <line num="14" count="4" type="stmt"/>
@@ -365,12 +365,12 @@
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
-        <line num="7" count="22" type="stmt"/>
-        <line num="8" count="22" type="stmt"/>
+        <line num="7" count="23" type="stmt"/>
+        <line num="8" count="23" type="stmt"/>
       </file>
       <file name="routes.js" path="D:\WebDasar\NODE-JS\auth-api\src\Interfaces\http\api\users\routes.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="1" count="22" type="stmt"/>
+        <line num="1" count="23" type="stmt"/>
         <line num="9" count="1" type="stmt"/>
       </file>
     </package>
