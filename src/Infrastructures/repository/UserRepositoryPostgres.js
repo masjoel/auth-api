@@ -41,7 +41,6 @@ class UserRepositoryPostgres extends UserRepository {
       text: 'SELECT password FROM users WHERE username = $1',
       values: [username],
     };
-
     const result = await this._pool.query(query);
 
     if (!result.rowCount) {
