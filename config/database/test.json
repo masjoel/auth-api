@@ -1,7 +1,7 @@
 {
-    "user": "developer",
-    "password": "111",
-    "host": "localhost",
-    "port": 5432,
-    "database": "authapi_test"
-  }
+  "user": "developer",
+  "password": "111",
+  "host": "localhost",
+  "port": 5432,
+  "database": "authapi_test"
+}

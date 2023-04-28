@@ -5,6 +5,7 @@ const users = require('../../Interfaces/http/api/users');
 const authentications = require('../../Interfaces/http/api/authentications');
 
 const createServer = async (container) => {
+  
   const server = Hapi.server({
     host: process.env.HOST,
     port: process.env.PORT,
